@@ -1,0 +1,17 @@
+{
+  "name": "readsfromexcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mostafa Magdy",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xml2js": "^0.6.2"
+  }
+}
